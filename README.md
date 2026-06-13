@@ -24,7 +24,7 @@ This program uses a Student structure to store a student's name, roll number, an
 
 **Objective:** To validate and display a date entered by the user using structures in C++.
 
-**Description: **This program uses a Date structure to store day, month, and year. It validates the entered date by checking the month range, calculating maximum days for each month including leap year logic for February, and verifying the day. The program keeps prompting until a valid date is entered.
+**Description:**This program uses a Date structure to store day, month, and year. It validates the entered date by checking the month range, calculating maximum days for each month including leap year logic for February, and verifying the day. The program keeps prompting until a valid date is entered.
 
 **Concepts Used:**
 
@@ -60,7 +60,7 @@ Classes and Objects • Constructor Overloading • Encapsulation • Getters an
 
 **Experiment 1**
 
-**Title:**Employee Class with Constructors
+**Title:** Employee Class with Constructors
 
 **Objective**: To demonstrate constructor overloading using an Employee class in C++.
 
