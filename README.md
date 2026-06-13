@@ -60,7 +60,7 @@ Classes and Objects • Constructor Overloading • Encapsulation • Getters an
 
 **Experiment 1**
 
-**Title: **Employee Class with Constructors
+**Title:**Employee Class with Constructors
 
 **Objective**: To demonstrate constructor overloading using an Employee class in C++.
 
@@ -115,8 +115,8 @@ Operator Overloading • Assignment Operator • Classes and Objects • Complex
 # Week 8
 
 **Experiment 1**
-**
-Title:** Publication Hierarchy Using Inheritance
+
+**Title**: Publication Hierarchy Using Inheritance
 
 **Objective:** To demonstrate single inheritance by deriving Book and Tape classes from a Publication base class in C++.
 
